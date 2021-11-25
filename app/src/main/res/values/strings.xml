@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CheckPoint 02</string>
+    <string name="informe_o_material_que_deseja">Informe o material que deseja:</string>
+    <string name="piso_branco_baixo_brilho">Piso Branco Baixo Brilho</string>
+    <string name="piso_albania_45x45">Piso Albania 45x45</string>
+    <string name="porcelanato_perlato_branco">Porcelanato Perlato Branco</string>
+    <string name="revestimento_mosaico">Revestimento Mosaico</string>
+    <string name="informe_a_medida_em_m2">Informe a medida em m2:</string>
+    <string name="ultra_frete_mega_rapido">Ultra frete mega rápido</string>
+    <string name="calcular">Calcular</string>
+    <string name="medida_em_m2">Informe corretamente a medida em metros quadrados!</string>
+    <string name="informe_numero_positivo">Informe um número positivo em metros quadrados!</string>
+    <string name="ocorreu_um_erro">Ocorreu um erro:</string>
+</resources>
